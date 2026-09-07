@@ -19,7 +19,7 @@
 
 | Area | Tools |
 |------|-------|
-| 🐍 Languages | Python, R, SQL |
+| 🐍 Languages | Python, R, SQL,JAVA, C,C++, HTML, CSS |
 | 📈 Visualization | Matplotlib, Seaborn, Plotly, Tableau |
 | 🤖 ML | Scikit-learn, XGBoost, LightGBM |
 | 🗄️ Data Wrangling | Pandas, NumPy, Polars |
